@@ -3,8 +3,8 @@ server:
 
 app:
   web:
-#  address: dev.investand.com
-    address:  aws.investand.com
+#  address: dev.investand.net
+    address:  aws.investand.net
 
 springdoc:
   version: '1.0.0'

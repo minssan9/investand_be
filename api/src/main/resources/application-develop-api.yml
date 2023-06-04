@@ -2,7 +2,7 @@ server:
   port: 24001
 
 
-baseUrl: https://dev.investand.com:24001
+baseUrl: https://dev.investand.net:24001
 
 springdoc:
   version: '1.0.0'

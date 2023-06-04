@@ -2,9 +2,9 @@ server:
   port: 24001
 
 app:
-  web-address: https://investand.com
+  web-address: https://investand.net
 
-baseUrl: https://investand.com/api
+baseUrl: https://investand.net/api
 
 springdoc:
   version: '1.0.0'

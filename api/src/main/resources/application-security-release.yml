@@ -5,14 +5,14 @@ spring:
       client:
         registration:
           google:
-            redirectUri: "https://investand.com/api/{action}/oauth2/code/{registrationId}"
+            redirectUri: "https://investand.net/api/{action}/oauth2/code/{registrationId}"
             scope:
               - email
               - profile
           kakao:
             clientAuthenticationMethod: post
             authorizationGrantType: authorization_code
-            redirectUri: "https://investand.com/api/{action}/oauth2/code/{registrationId}"
+            redirectUri: "https://investand.net/api/{action}/oauth2/code/{registrationId}"
             scope:
               - plusfriends
               - profile
@@ -22,7 +22,7 @@ spring:
           naver:
             clientAuthenticationMethod: post
             authorizationGrantType: authorization_code
-            redirectUri: "https://investand.com/api/{action}/oauth2/code/{registrationId}"
+            redirectUri: "https://investand.net/api/{action}/oauth2/code/{registrationId}"
             scope:
               - name
               - nickname

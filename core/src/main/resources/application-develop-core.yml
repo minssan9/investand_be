@@ -10,7 +10,7 @@ spring:
     show-sql: true
 
 core:
-  web-address: http://dev.investand.com
+  web-address: http://dev.investand.net
 
 db-investand:
   driver-class-name: com.mysql.cj.jdbc.Driver

@@ -2,11 +2,11 @@ server:
   port: 24000
 
 app:
-  web-address: http://dev.investand.com:9090
+  web-address: http://dev.investand.net:9090
   cors:
-    allowed-origins: 'http://localhost:8080,http://dev.investand.com,http://dev.investand.com:9090'
+    allowed-origins: 'http://localhost:8080,http://dev.investand.net,http://dev.investand.net:9090'
 
-baseUrl: https://dev.investand.com:24000
+baseUrl: https://dev.investand.net:24000
 
 springdoc:
   version: '1.0.0'
