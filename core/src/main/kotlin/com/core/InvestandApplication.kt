@@ -12,4 +12,7 @@ class InvestandApplication
 
 fun main(args: Array<String>) {
     runApplication<InvestandApplication>(*args)
+
+
 }
+
